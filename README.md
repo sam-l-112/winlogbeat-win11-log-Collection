@@ -25,3 +25,7 @@ for the full Winlogbeat documentation.
 ## Release notes
 
 https://www.elastic.co/guide/en/beats/libbeat/9.4/release-notes-9.4.2.html
+
+---
+# Document
+[Docs](./Docs/README.md)
